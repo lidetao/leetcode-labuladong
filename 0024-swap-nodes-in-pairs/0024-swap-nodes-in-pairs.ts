@@ -19,7 +19,6 @@ function swapPairs(head: ListNode | null): ListNode | null {
     let newHead = null
     let p2 = head
     while (p1 !== null && p1.next !== null) {
-        console.log('ldt-debug:', p1.val)
         const temp = p1.next.next
         if (newHead === null) {
             newHead = p1.next
