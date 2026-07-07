@@ -19,7 +19,8 @@ function reverseBetween(head: ListNode | null, left: number, right: number): Lis
         p1 = p1.next
     }
 
-    const subHead = reverseK_it(p1.next, right - left + 1)
+    // const subHead = reverseK_it(p1.next, right - left + 1)
+    const subHead = reverseK_rec(p1.next, right - left + 1)
     p1.next = subHead
 
     return dummy.next
@@ -49,5 +50,14 @@ function reverseK_it(head: ListNode | null, k: number): ListNode | null {
 }
 
 function reverseK_rec(head: ListNode | null, k: number): ListNode | null {
-    return head
+    if (head === null || head.next === null || k <= 1) {
+        return head
+    }
+
+    const newHead = reverseK_rec(head.next, k - 1)
+    const temp = head.next.next
+    head.next.next = head
+    head.next = temp
+
+    return newHead
 }
