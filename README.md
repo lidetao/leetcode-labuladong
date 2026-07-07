@@ -5,12 +5,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/lidetao/leetcode-labuladong/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/lidetao/leetcode-labuladong/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/lidetao/leetcode-labuladong/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/lidetao/leetcode-labuladong/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/lidetao/leetcode-labuladong/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/lidetao/leetcode-labuladong/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
