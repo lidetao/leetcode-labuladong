@@ -11,7 +11,8 @@
  */
 
 function reverseList(head: ListNode | null): ListNode | null {
-    return reverseList_it(head)
+    // return reverseList_it(head)
+    return reverseList_rec(head)
 };
 
 /**
@@ -31,4 +32,19 @@ function reverseList_it(head: ListNode | null): ListNode | null {
     }
 
     return p_new
+}
+
+/**
+* 递归法
+ */
+function reverseList_rec(head: ListNode | null): ListNode | null {
+    if (head === null || head.next === null) {
+        return head
+    }
+
+    const newHead = reverseList_rec(head.next)
+    head.next.next = head
+    head.next = null
+
+    return newHead
 }
