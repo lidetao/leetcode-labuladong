@@ -30,5 +30,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lidetao/leetcode-labuladong/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/lidetao/leetcode-labuladong/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lidetao/leetcode-labuladong/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
