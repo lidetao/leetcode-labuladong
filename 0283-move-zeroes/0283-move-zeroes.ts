@@ -12,8 +12,9 @@ function moveZeroes(nums: number[]): void {
         fast++
     }
 
-    while (slow < nums.length) {
-        nums[slow] = 0
-        slow++
-    }
+    nums.fill(0, slow)
+    // while (slow < nums.length) {
+    //     nums[slow] = 0
+    //     slow++
+    // }
 };
