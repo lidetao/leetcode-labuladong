@@ -35,6 +35,7 @@
 | [0027-remove-element](https://github.com/lidetao/leetcode-labuladong/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/lidetao/leetcode-labuladong/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/lidetao/leetcode-labuladong/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/lidetao/leetcode-labuladong/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -45,12 +46,15 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/lidetao/leetcode-labuladong/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/lidetao/leetcode-labuladong/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/lidetao/leetcode-labuladong/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/lidetao/leetcode-labuladong/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/lidetao/leetcode-labuladong/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/lidetao/leetcode-labuladong/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
