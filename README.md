@@ -12,6 +12,7 @@
 | [0206-reverse-linked-list](https://github.com/lidetao/leetcode-labuladong/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lidetao/leetcode-labuladong/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/lidetao/leetcode-labuladong/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/lidetao/leetcode-labuladong/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lidetao/leetcode-labuladong/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lidetao/leetcode-labuladong/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/lidetao/leetcode-labuladong/tree/master/0283-move-zeroes) |
+| [0622-design-circular-queue](https://github.com/lidetao/leetcode-labuladong/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +59,12 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/lidetao/leetcode-labuladong/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/lidetao/leetcode-labuladong/tree/master/0567-permutation-in-string) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/lidetao/leetcode-labuladong/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/lidetao/leetcode-labuladong/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
