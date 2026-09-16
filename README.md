@@ -28,6 +28,7 @@
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/lidetao/leetcode-labuladong/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/lidetao/leetcode-labuladong/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/lidetao/leetcode-labuladong/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
@@ -64,11 +65,13 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/lidetao/leetcode-labuladong/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/lidetao/leetcode-labuladong/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/lidetao/leetcode-labuladong/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/lidetao/leetcode-labuladong/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/lidetao/leetcode-labuladong/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/lidetao/leetcode-labuladong/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
