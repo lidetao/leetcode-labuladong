@@ -13,6 +13,10 @@
  */
 
 function minDepth(root: TreeNode | null): number {
+    return minDepth_dfs(root)
+}
+
+function minDepth_dfs(root: TreeNode | null): number {
     if (!root) {
         return 0
     }
