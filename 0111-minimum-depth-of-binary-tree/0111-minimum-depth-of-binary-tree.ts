@@ -13,7 +13,35 @@
  */
 
 function minDepth(root: TreeNode | null): number {
-    return minDepth_dfs(root)
+    // return minDepth_dfs(root)
+    return minDepth_bfs(root)
+}
+
+function minDepth_bfs(root: TreeNode | null): number {
+    if (!root) {
+        return 0
+    }
+
+    const queue: TreeNode[] = [root]
+    let depth = 1
+    while (queue.length) {
+        const levelSize = queue.length
+        for (let i = 0; i < levelSize; i++) {
+            const node = queue.shift()
+            if (!node.left && !node.right) {
+                return depth
+            }
+            if (node.left) {
+                queue.push(node.left)
+            }
+            if (node.right) {
+                queue.push(node.right)
+            }
+        }
+        depth++
+    }
+
+    return depth
 }
 
 function minDepth_dfs(root: TreeNode | null): number {
